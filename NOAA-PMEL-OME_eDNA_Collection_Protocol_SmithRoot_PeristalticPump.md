@@ -28,7 +28,7 @@ env_broad_scale: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209
 env_local_scale: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024], freshwater lake biome [ENVO:01000252], estuary [ENVO:00000045]
 env_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011]
 habitat_natural_artificial_0_1: 0
-samp_collect_method: CTD niskin rosette, ROV, hand deploy
+samp_collect_method: CTD Niskin rosette, ROV, hand deploy
 samp_collect_device: Niskin bottle, 1L bottle
 samp_size: 1000
 samp_size_unit: mL
@@ -107,7 +107,7 @@ samp_size_unit: mL
 
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
-| Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, niskin bottles are attached to the same deployable metal frame as the CTD and ancilliary sensors so that water parameter data are collected alongside niskin water samples. Deployments of this suite of instruments and sensors on the same frame are often referred to as a "CTD cast". |
+| Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, Niskin bottles are attached to the same deployable metal frame as the CTD and ancilliary sensors so that water parameter data are collected alongside Niskin water samples. Deployments of this suite of instruments and sensors on the same frame are often referred to as a "CTD cast". |
 | Field blank | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like an eDNA water sample to control for contamination in the field sampling step.  |
 | Niskin bottle  | Plastic cylindrical bottle of varying volumes for collecting discrete water samples. A stopper at each end of the bottle can be "cocked" open with an electronic or weight triggered release mechanism causing the stoppers to snap shut. This is remotely triggered, so the bottle closes at a prescribed depth. Often, multiple bottles are arranged on the same frame as a CTD and other sensors in a "rosette". |
 
@@ -119,7 +119,7 @@ Water collection and filtration protocol using [Smith-Root self preserving eDNA 
 
 ### Method Description and Rationale
 
-This protocol describes the collection and filtration of water samples through a 0.22 µm sterile  disc filter in the Smith-Root self preserving eDNA filter housing to capture eDNA and DNA-containing particulates. The Smith-Root filter DNA will later be extracted from these samples for multi-locus metabarcoding and qPCR analysis. The protocol is intended for water collected with a niskin bottle mounted on a ship-deployed CTD rosette sampler or ROV, but it can also be employed for samples collected by hand.
+This protocol describes the collection and filtration of water samples through a 0.22 µm sterile  disc filter in the Smith-Root self preserving eDNA filter housing to capture eDNA and DNA-containing particulates. The Smith-Root filter DNA will later be extracted from these samples for multi-locus metabarcoding and qPCR analysis. The protocol is intended for water collected with a Niskin bottle mounted on a ship-deployed CTD rosette sampler or ROV, but it can also be employed for samples collected by hand.
 
 ### Spatial Coverage and Environment(s) of Relevance
 
@@ -139,11 +139,11 @@ Molecular biology training (including, at a minimum, sterile technique and pipet
 
 ### Time Required to Execute the Procedure
 
-The time needed varies widely based on the number and type of samples collected. For a majority of our sampling, niskin bottles on a CTD rosette and/or ROV are triggered to collect at three depths (e.g., surface, 30m, and 10m off bottom). Then pending the study design and niskin size, a singular sample or triplicate samples are collected from each niskin. The depth of collection and number of samples affect the time required - for instance, a cast to 30 m may take 10 minutes, while a cast to 600 m may take over an hour. Collecting samples from the niskins take between 10-30 minutes, depending on access and whether the water is being used for other science. We've also collected samples using a bucket or by directly submerging bottles in sample water in situ, which takes significantly less time for collection.
+The time needed varies widely based on the number and type of samples collected. For a majority of our sampling, Niskin bottles on a CTD rosette and/or ROV are triggered to collect at three depths (e.g., surface, 30m, and 10m off bottom). Then pending the study design and Niskin size, a singular sample or triplicate samples are collected from each Niskin. The depth of collection and number of samples affect the time required - for instance, a cast to 30 m may take 10 minutes, while a cast to 600 m may take over an hour. Collecting samples from the Niskins take between 10-30 minutes, depending on access and whether the water is being used for other science. We've also collected samples using a bucket or by directly submerging bottles in sample water in situ, which takes significantly less time for collection.
 
 The Smith-Root and peristaltic pump filtration set-up for three singular samples takes on average 10 minutes. Pending the turbidity of the water, the filtering of a single sample takes 5-20 minutes and repackaging of the filter takes 1-2 minutes. 
 
-The total collection and filtering time for a singular cast with three niskins triggered and one sample taken from each niskin is 120 minutes (2 hours) on average. More casts, more samples = more time.
+The total collection and filtering time for a singular cast with three Niskins triggered and one sample taken from each Niskin is 120 minutes (2 hours) on average. More casts, more samples = more time.
 
 ## EQUIPMENT
 
@@ -153,7 +153,7 @@ The total collection and filtering time for a singular cast with three niskins t
 - Quantity: Provide quantities necessary for one application of the standard operating procedure (e.g., number of filters).
 - Remark: For example, some of the consumables may need to be sterilized, some commercial solutions may need to be diluted or shielded from light during the operating procedure.
 
-For a singular cast with three unique samples taken (one sample per niskin):
+For a singular cast with three unique samples taken (one sample per Niskin):
 
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -226,7 +226,7 @@ Bottle Sterilization Method with (RO Not Available):
 Barbed Tubing Adaptor Sterilization:
 1. Place luer adaptors in a clean 50 mL Falcon tube and fill with 10% bleach. 
 2. Allow adaptors to sit in bleach for 10 mins, shaking several times throughout.
-3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample water from the niskin or bottle 3x immediately before sampling.
+3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample water from the Niskin or bottle 3x immediately before sampling.
 
 Tube Sterilization Method (RO Available):
 1. Prepare a 10% bleach solution in one of the buckets (6-10 L total, depending on needs). Then, grab two sterile buckets and fill one with RO water (6-10 L total, depending on needs). Leave the other sterile bucket for peristaltic tubing storage post-sterilization.
@@ -259,9 +259,9 @@ When eDNA sampling in the field, there should be a corresponding field notebook.
 On smaller cruises where no CTD logs are kept or water is sampled without a CTD, more detail is required in the field note. Record the date, sample #, site name, lat/long, cast #, depth, and any other associated notes (e.g., filtering issues, sampling device, cast deployment time).
 
 ### Sampling
-This protocol is designed for samples collected with a niskin bottle - the samples are expected to be discrete and sealed masses of water that can be transferred to a 1 L Nalgene bottle without contamination (typically from the spout/spigot of the niskin bottle). For our samples, niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
+This protocol is designed for samples collected with a Niskin bottle - the samples are expected to be discrete and sealed masses of water that can be transferred to a 1 L Nalgene bottle without contamination (typically from the spout/spigot of the Niskin bottle). For our samples, Niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the Niskin sampling rosette). 
 
-Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label, and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
+Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
 
 ### Filtration
 
