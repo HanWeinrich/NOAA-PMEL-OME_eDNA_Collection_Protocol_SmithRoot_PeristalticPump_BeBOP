@@ -160,28 +160,28 @@ For a singular cast with three unique samples taken (one sample per Niskin):
 | **Durable equipment** |
 | Peristaltic pump | Alexis peristaltic pump | Proactive Environmental Products | 1 | Can be substituted with generic, must fit peristaltic tubing with 3/16" inner diameter. |
 | Peristaltic tubing | Nalgene Pharma-Grade Platinum-Cured Silicone Tubing, Size 15 | Thermo Scientific | 3 | Need to be cut in 4-5 ft pieces with razor blade. Can be substituted with generic silicone peristaltic tubing of the same diameter. |
-| Tubing adaptor | 1/4" to 3/16" Nylon Single Barbed Tube Reducer |Made in USA| 3 | Can be subsituted with generic, must be sterilizable |
-|Clear Tubing|1/4" inner diameter vinyl clear tubing |Generic|3|Must be sterilizable with bleach, must fit on the barbed end of the smith root filter housing|
+| Tubing adapter | 1/4" to 3/16" Nylon Single Barbed Tube Reducer |Made in USA| 3 | Can be subsituted with generic, must be sterilizable. |
+|Clear Tubing|1/4" inner diameter vinyl clear tubing |Generic|3|Must be sterilizable with bleach, must fit on the barbed end of the Smith-Root filter housing.|
 | Nalgene bottles | 1 L Nalgene wide-mouth lab quality amber HDPE bottles | Thermo Scientific | 3 | Can be substituted with generic - must be opaque, well-sealing and sterilizable. |
 | Carboy | 20 L Nalgene rectangular carboy with spigot | Generic | 1 |Number needed will vary based on length of fieldwork and number of samples. Must be sterilized before use. Not required if the ship has sterile RO water available. |
 |Wash bottles|Safety wash bottles 500 mL for EtOH, bleach, and RO water|VWR|3|Can be substituted with generic, but recommend purchasing different colored bottles for each reagent. Must be sterilized before use. |
-| Bucket | 5 gallon bucket | Generic | 1 |  Optional if there is a sink or other catchment for waste water|
+| Bucket | 5 gallon bucket | Generic | 1 |  Optional if there is a sink or other catchment for waste water.|
 | Tabletop covering | Disposable plastic or paper table covering| Generic | 1 |  |
-| Bungee cords | Bungee cords | Generic | 10 | Varying sizes recommended  |
-|Pre-filter adapter|eDNA Pre-filter adapter| Smith-Root|3|Optional, only needed when filtering firectly from a Niskin or inline|
+| Bungee cords | Bungee cords | Generic | 10 | Varying sizes recommended, eye bolts and cord can be used alternately.  |
+|Pre-filter adapter|eDNA Pre-filter adapter| Smith-Root|3|Optional, only needed when filtering directly from a Niskin or inline.|
 | **Consumable equipment** |
 | Foil | Aluminium Foil | Generic | 1 | |
 | Smith-Root filter | eDNA self preserving filter | Smith-Root | 3 |Cannot be substituted for this protocol.  |
 | Label tape | VWR general-purpose laboratory labeling tape | VWR |1  | Can be substituted with generic. |
 | Parafilm | Parafilm  | Sigma Aldrich |60 cm | |
 | Kimwipes | Delicate task wipes | Kimtech |2 wipes| Can be substituted with generic. Must be lint-free.|
-| Nitrile gloves | Powder free nitrile gloves | Fisher Scientific |2 pairs | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
-| Field notebook | Durable, hardcover lab notebook | Generic | 1 | Dedicated to fieldwork | 
+| Nitrile gloves | Powder free nitrile gloves | Fisher Scientific |2 pairs | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH). |
+| Field notebook | Durable, hardcover lab notebook | Generic | 1 | Dedicated to fieldwork. | 
 | Writing utensils | Pens and sharpies | Generic | 2 |Not made of wood - must be able to be wiped down with bleach/EtOH.  |
 | **Chemicals** |
 | 70% EtOH | Molecular biology grade ethanol | 10 mL |  |
 | 10% bleach | Hypochlorite bleach | Clorox | 400 mL| Remake every ~5 days as bleach decomposes quickly at 10% concentration. The majority is used in bottle/tube sterilization.|
-| RO water | Ultrapure 18 MΩ RO water | generic | 400 mL| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
+| RO water | Ultrapure 18 MΩ RO water | Generic | 400 mL| Must run through reverse osmosis filter with an irradiated 0.2 micron filter to remove biological contaminants.  |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -193,7 +193,7 @@ When sterilizing any equipment or filtering, sterile nitrile gloves must be used
 **Bucket Sterilization:**
 
 1. Create 10% bleach solution directly in bucket (4-6 L). Seal the lid carefully and shake for 2-3 minutes.
-2. Empty the 10% bleach solution. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total)
+2. Empty the 10% bleach solution. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
 9. Once complete, close the bucket with a lid, label, and close with tape.
 
 **Carboy Sterilization:**
@@ -201,8 +201,8 @@ Recommend completing before embarking onto the vessel, preferably back in the la
 
 1. Create 10% bleach solution directly in a carboy (4-6 L). Close the carboy, make sure the spigot is closed, and shake for 2-3 minutes.
 2. Empty the 10% bleach solution via the spigot into the sink. Allow 50-80% of the bleach solution to leave through the spigot, then dump the rest. You’ll need to loosen the cap a bit; otherwise, an airlock will prevent the flow. 
-5. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total)
-9. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
+3. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
+4. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
 
 **Bottle Sterilization:**
 One sterile bottle is required for each sample and each field blank.
@@ -217,16 +217,19 @@ Bottle Sterilization Method (RO Available):
 
 Bottle Sterilization Method with (RO Not Available):
 
-1. Complete Steps 1-3 from Bottle Sterilization Method (RO Available)
-2. Close it with the cap then wrap the top with parafilm to maintain sterility. **Shouldn't be done more than 24 hours in advance of sampling**
+1. Complete Steps 1-3 from Bottle Sterilization Method (RO Available).
+2. Close it with the cap then wrap the top with parafilm to maintain sterility. **Shouldn't be done more than 24 hours in advance of sampling**.
 3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of sample water from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
 
-**Tubing and Adaptor Sterilization:**
+**Tubing and adapter Sterilization:**
 
-Barbed Tubing Adaptor Sterilization:
-1. Place luer adaptors in a clean 50 mL Falcon tube and fill with 10% bleach. 
-2. Allow adaptors to sit in bleach for 10 mins, shaking several times throughout.
-3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adaptors in sample water from the Niskin or bottle 3x immediately before sampling.
+Barbed Tubing Adapter Sterilization:
+
+Required to attach the peristaltic tubing to the clear tubing. This step can also be used for cleaning the pre-filter adapters if necessary.
+
+1. Place barbed adapters in a clean 50 mL Falcon tube and fill with 10% bleach. 
+2. Allow adapters to sit in bleach for 10 mins, shaking several times throughout.
+3. Rinse 3x with RO water while shaking if available. If no RO is available, rinse individual adapters in sample water from the Niskin or bottle 3x immediately before sampling.
 
 Tube Sterilization Method (RO Available):
 1. Prepare a 10% bleach solution in one of the buckets (6-10 L total, depending on needs). Then, grab two sterile buckets and fill one with RO water (6-10 L total, depending on needs). Leave the other sterile bucket for peristaltic tubing storage post-sterilization.
@@ -250,7 +253,7 @@ Tube Sterilization Method (RO Not Available):
 * All sterile fittings should be left in the packaging until ready to use. 
 * Organize your peristaltic and clear tubing, water catchment bucket (if no sink is available), and Smith-Root filters for all samples at a station prior to collection. 
 * Pre-label Smith-Root bags with sample number and with the cast number, location, date, etc.
-* Make a small boat of folded aluminum foil on which to rest your clean tubing if needed (if re-using the same tubing for multiple samples)
+* Make a small boat of folded aluminum foil on which to rest your clean tubing if needed (if re-using the same tubing for multiple samples).
 
 **Field Notebook:**
 
@@ -261,28 +264,28 @@ On smaller cruises where no CTD logs are kept or water is sampled without a CTD,
 ### Sampling
 This protocol is designed for samples collected with a Niskin bottle - the samples are expected to be discrete and sealed masses of water that can be transferred to a 1 L Nalgene bottle without contamination (typically from the spout/spigot of the Niskin bottle). For our samples, Niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the Niskin sampling rosette). 
 
-Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
+Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label, and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
 
 ### Filtration
 
-This protocol is designed for samples collected with a Smith Root filter directly from a body of water or 1L bottle of sample water. Sample water is drawn through the “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e. at different depths) but should not be re-used between sites without sterilization. 
+This protocol is designed for samples collected with a Smith-Root filter directly from a body of water or 1L bottle of sample water. Sample water is drawn through the “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e. at different depths) but should not be re-used between sites without sterilization. 
 
 
-**Note: the standard protocol is for filtering directly from a 1L nalgene bottle. This protocol can be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA Pre-Filter Adapter will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing**
+**Note: The standard protocol is for filtering directly from a 1L Nalgene bottle. This protocol can be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA Pre-Filter Adapter will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing.**
 
-1. Remove a sterile peristaltic tube from the sterile bucket and insert it into the slot in the  pump. Place one end in a bucket/sink/other catchment, and insert a barbed adaptor into the other end. During this process, keep the tubing on the adaptor side off the counter to avoid contamination (i.e., use an aluminum foil boat). 
-2. Remove a clear tube from the sterile bucket and attach to the barbed adaptor, taking care to keep the clean end of the tubing sterile.
+1. Remove a sterile peristaltic tube from the sterile bucket and insert it into the slot in the  pump. Place one end in a bucket/sink/other catchment, and insert a barbed adapter into the other end. During this process, keep the tubing on the adapter side off the counter to avoid contamination (i.e., use an aluminum foil boat). 
+2. Remove a clear tube from the sterile bucket and attach to the barbed adapter, taking care to keep the clean end of the tubing sterile.
 3. Remove a Smith-Root filter and inlet prefilter straw (included in bag) from the packaging - avoid touching the inlet or outlet and keep the straw clean. Attach Smith-Root to sterile clear tubing via the barbed end of the Smith-Root outlet (yellow) filter housing. Save the packaging bag as you will place the Smith-Root filter back into it after sampling for storage.
 4. Attach the prefilter straw to the inlet (white) end of the Smith-Root filter housing. If you are running the filter inline, you will attach the pre-filter adapter and tubing here instead.
-5. Stick the inlet end of the Smith-Root straw into the sample water in the Nalgene bottle - do not submerge the Smith-Root entirely. If the junction between the two halves of the Smith-Root is submerged, the sample can get sucked into the tubing, bypass the filter, and as a result, contaminate the tubing and reduce the sample volume passed through the filter. Submerging the yellow dessicant end of the filter housing can also reduce its preservational capacity and compromise the sample.
+5. Stick the inlet end of the Smith-Root straw into the sample water in the Nalgene bottle - do not submerge the Smith-Root entirely. If the junction between the two halves of the Smith-Root is submerged, the sample can get sucked into the tubing, bypass the filter, and as a result, contaminate the tubing and reduce the sample volume passed through the filter. Submerging the yellow desiccant end of the filter housing can also reduce its preservational capacity and compromise the sample.
 6. Outflow can be directed to the sink or bucket. Start the pump at 35 rpm and adjust upwards accordingly up to ~80 rpm so that the sample takes 7-10 minutes for a sample with low turbidity.
 7. Once all is filtered, continue pumping until all water is removed from the Smith-Root, then run dry for 1 minute to pre-dry the sample prior to preservation. Remove the straw from the inlet end of the Smith-Root and discard. 
-8. Remove the Smith-Root filter housing from the tubing and immediately place back in the provided labeled bag and seal carefully. Place the section of tubing with the barbed luer adaptor in your clean aluminum foil boat for reuse with a replicate sample or another sample from the same site.
+8. Remove the Smith-Root filter housing from the tubing and immediately place back in the provided labeled bag and seal carefully. Place the section of tubing with the barbed luer adapter in your clean aluminum foil boat for reuse with a replicate sample or another sample from the same site.
 
 
 ### Sample Preservation
 
-The Smith-Root filter housing contains a proprietary dessicant (the yellow end of the housing) that dries and preserves the sample without the need for additonal preservatives. Ensure the Smith-Root bag is well sealed so no additional air can get in, and that the filter housing is entirely empty of water. There is no need to remove the disc filter from the Smith-Root for separate preservation as the housing and bag are designed to preserve the sample.
+The Smith-Root filter housing contains a proprietary desiccant (the yellow end of the housing) that dries and preserves the sample without the need for additonal preservatives. Ensure the Smith-Root bag is well sealed so no additional air can get in, and that the filter housing is entirely empty of water. There is no need to remove the disc filter from the Smith-Root for separate preservation as the housing and bag are designed to preserve the sample.
 
 ### Storage
 
