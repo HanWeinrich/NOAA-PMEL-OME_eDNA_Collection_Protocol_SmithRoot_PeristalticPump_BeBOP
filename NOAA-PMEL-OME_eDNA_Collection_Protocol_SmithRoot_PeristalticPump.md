@@ -29,7 +29,7 @@ env_local_scale: oceanic epipelagic zone biome [ENVO:01000035], marine benthic b
 env_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011]
 habitat_natural_artificial_0_1: 0
 samp_collect_method: CTD Niskin rosette, ROV, hand deploy
-samp_collect_device: Niskin bottle, 1L bottle
+samp_collect_device: Niskin bottle, bucket
 samp_size: 1000
 samp_size_unit: mL
 ---
@@ -72,7 +72,6 @@ samp_size_unit: mL
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
 | NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge | https://github.com/HanWeinrich/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge.md  | 1.1.1  |	2025-10-06  |Internal
-| NOAA-PMEL-OME_Extraction_Protocol_Sterivex_Centrifuge | https://github.com/marinednadude/NOAA-PMEL-OME_eDNA_Collection_Protocol_Niskin/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_Sterivex_PeristalticPump.md| 1.1.1 | 2025-10-06 | Internal|
 
 ### Protocol Revision Record
 
@@ -83,7 +82,6 @@ samp_size_unit: mL
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2024-10-07 | Initial release |
-
 
 ### Acronyms and Abbreviations
 
@@ -110,20 +108,21 @@ samp_size_unit: mL
 | Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, Niskin bottles are attached to the same deployable metal frame as the CTD and ancilliary sensors so that water parameter data are collected alongside Niskin water samples. Deployments of this suite of instruments and sensors on the same frame are often referred to as a "CTD cast". |
 | Field blank | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like an eDNA water sample to control for contamination in the field sampling step.  |
 | Niskin bottle  | Plastic cylindrical bottle of varying volumes for collecting discrete water samples. A stopper at each end of the bottle can be "cocked" open with an electronic or weight triggered release mechanism causing the stoppers to snap shut. This is remotely triggered, so the bottle closes at a prescribed depth. Often, multiple bottles are arranged on the same frame as a CTD and other sensors in a "rosette". |
+| Smith-Root self-preserving eDNA filters | eDNA filter housing (compatible with any suction pump) partially comprised of a biodegradable, hydrophilic plastic that functions to automatically preserve captured eDNA via desiccation|
 
 ## BACKGROUND
 
 ### Summary
 
-Water collection and filtration protocol using [Smith-Root self preserving eDNA filters](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13212) to collect environmental DNA from marine, freshwater and estuarine ecosystems. This collection and filtration protocol is used by the NOAA PMEL Ocean Molecular Ecology (OME) Group.
+Water collection and filtration protocol using [Smith-Root self preserving eDNA filters](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13212) to collect environmental DNA from marine, freshwater, and estuarine ecosystems. This collection and filtration protocol is used by the NOAA PMEL Ocean Molecular Ecology (OME) Group.
 
 ### Method Description and Rationale
 
-This protocol describes the collection and filtration of water samples through a 0.22 µm sterile  disc filter in the Smith-Root self preserving eDNA filter housing to capture eDNA and DNA-containing particulates. The Smith-Root filter DNA will later be extracted from these samples for multi-locus metabarcoding and qPCR analysis. The protocol is intended for water collected with a Niskin bottle mounted on a ship-deployed CTD rosette sampler or ROV, but it can also be employed for samples collected by hand.
+This protocol describes the collection and filtration of water samples through a 0.22 µm sterile disc filter in the Smith-Root self preserving eDNA filter housing to capture eDNA and DNA-containing particulates. The Smith-Root filter DNA will later be extracted from these samples for multi-locus metabarcoding and qPCR analysis. The protocol is intended for water collected with a Niskin bottle mounted on a ship-deployed CTD rosette sampler or ROV, but it can also be employed for samples collected by hand.
 
 ### Spatial Coverage and Environment(s) of Relevance
 
-This protocol has been used to filter eDNA from hundreds of seawater samples taken from coastal stations off the western coast of North America in the Northeastern Pacific Ocean, Bering Sea and Arctic Ocean (primarily off California, Oregon, Washington, and Alaska) as well as from the freshwater Lake Washington. Samples collected range in depth from surface ocean (epipelagic biome) to just off bottom (benthic biome) at varying distances from shore (coastal to off-shelf).
+This protocol has been used to filter eDNA from hundreds of seawater samples taken from coastal stations off the western coast of North America in the Northeastern Pacific Ocean, Bering Sea and Arctic Ocean (primarily off California, Oregon, Washington, and Alaska) as well as freshwater samples from the freshwater Lake Washington. Samples collected range in depth from surface ocean (epipelagic biome) to just off bottom (benthic biome) at varying distances from shore (coastal to off-shelf).
 
 ### Personnel Required
 
@@ -139,7 +138,7 @@ Molecular biology training (including, at a minimum, sterile technique and pipet
 
 ### Time Required to Execute the Procedure
 
-The time needed varies widely based on the number and type of samples collected. For a majority of our sampling, Niskin bottles on a CTD rosette and/or ROV are triggered to collect at three depths (e.g., surface, 30m, and 10m off bottom). Then pending the study design and Niskin size, a singular sample or triplicate samples are collected from each Niskin. The depth of collection and number of samples affect the time required - for instance, a cast to 30 m may take 10 minutes, while a cast to 600 m may take over an hour. Collecting samples from the Niskins take between 10-30 minutes, depending on access and whether the water is being used for other science. We've also collected samples using a bucket or by directly submerging bottles in sample water in situ, which takes significantly less time for collection.
+The time needed varies widely based on the number and type of samples collected. For a majority of our sampling, Niskin bottles on a CTD rosette and/or ROV are triggered to collect at three depths (e.g., surface, 30 m, and 10 m off bottom). Then pending the study design and Niskin size, a singular sample or triplicate samples are collected from each Niskin. The depth of collection and number of samples affect the time required - for instance, a cast to 30 m may take 10 minutes, while a cast to 600 m may take over an hour. Collecting samples from the Niskins take between 10-30 minutes, depending on access and whether the water is being used for other science. We've also collected samples using a bucket or by directly submerging bottles in sample water in situ, which takes significantly less time for collection.
 
 The Smith-Root and peristaltic pump filtration set-up for three singular samples takes on average 10 minutes. Pending the turbidity of the water, the filtering of a single sample takes 5-20 minutes and repackaging of the filter takes 1-2 minutes. 
 
@@ -192,14 +191,14 @@ When sterilizing any equipment or filtering, sterile nitrile gloves must be used
 
 **Bucket Sterilization:**
 
-1. Create 10% bleach solution directly in bucket (4-6 L). Seal the lid carefully and shake for 2-3 minutes.
+1. Create a 10% bleach solution directly in bucket (4-6 L). Seal the lid carefully and shake for 2-3 minutes.
 2. Empty the 10% bleach solution. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
 9. Once complete, close the bucket with a lid, label, and close with tape.
 
 **Carboy Sterilization:**
 Recommend completing before embarking onto the vessel, preferably back in the laboratory environment. Similar process can be completed with squirt bottles. **Only required if you are bringing a carboy of RO into the field.**
 
-1. Create 10% bleach solution directly in a carboy (4-6 L). Close the carboy, make sure the spigot is closed, and shake for 2-3 minutes.
+1. Create a 10% bleach solution directly in a carboy (4-6 L). Close the carboy, make sure the spigot is closed, and shake for 2-3 minutes.
 2. Empty the 10% bleach solution via the spigot into the sink. Allow 50-80% of the bleach solution to leave through the spigot, then dump the rest. You’ll need to loosen the cap a bit; otherwise, an airlock will prevent the flow. 
 3. Fill carboy with 3-4 L of RO water and shake for 1-2 minutes. Repeat this RO wash step two more times (= 3 rinses in total).
 4. Once complete, seal the carboy lid and spigot with parafilm. If using immediately, fill with RO water. Otherwise, this sealed, sterile carboy can be stored for month+.
@@ -221,11 +220,10 @@ Bottle Sterilization Method with (RO Not Available):
 2. Close it with the cap then wrap the top with parafilm to maintain sterility. **Shouldn't be done more than 24 hours in advance of sampling**.
 3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of sample water from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
 
-**Tubing and adapter Sterilization:**
+**Tubing and Adapter Sterilization:**
 
 Barbed Tubing Adapter Sterilization:
-
-Required to attach the peristaltic tubing to the clear tubing. This step can also be used for cleaning the pre-filter adapters if necessary.
+Required to attach the peristaltic tubing to the clear tubing. This step can also be used for cleaning the pre-filter adapters, if necessary.
 
 1. Place barbed adapters in a clean 50 mL Falcon tube and fill with 10% bleach. 
 2. Allow adapters to sit in bleach for 10 mins, shaking several times throughout.
@@ -255,25 +253,24 @@ Tube Sterilization Method (RO Not Available):
 * Pre-label Smith-Root bags with sample number and with the cast number, location, date, etc.
 * Make a small boat of folded aluminum foil on which to rest your clean tubing if needed (if re-using the same tubing for multiple samples).
 
-**Field Notebook:**
+**Field Sampling Records:**
 
-When eDNA sampling in the field, there should be a corresponding field notebook. On larger cruises where CTD logs are kept after each cast, record the sample # in the logs in the corresponding Niskin row. Then, in the field notebook, record the date, sample #, depth, and cast # in the field notebook. Any other associated notes should also be recorded here, such as filtering issues, time before filtering (if longer than ~1 hour), etc. 
+When eDNA sampling in the field, there should be a corresponding record sheet or field notebook. On larger cruises where cruise CTD logs are kept after each cast, record the sample # in the logs in the corresponding Niskin row. Record additional information like the date, sample #, sample depth, cast #, filtering issues, etc., in your own records sheet or notebook.
 
-On smaller cruises where no CTD logs are kept or water is sampled without a CTD, more detail is required in the field note. Record the date, sample #, site name, lat/long, cast #, depth, and any other associated notes (e.g., filtering issues, sampling device, cast deployment time).
+On smaller cruises where no CTD logs are kept or water is sampled without a CTD, more detail is required in the record sheet. Record the date, sample #, site name, lat/long, cast #, depth, and any other associated notes (e.g., filtering issues, sampling device, cast deployment time).
 
 ### Sampling
 This protocol is designed for samples collected with a Niskin bottle - the samples are expected to be discrete and sealed masses of water that can be transferred to a 1 L Nalgene bottle without contamination (typically from the spout/spigot of the Niskin bottle). For our samples, Niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the Niskin sampling rosette). 
 
-Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label, and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
+Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this before the sample water has sat on the deck in the sun. After collecting, if you don’t have time to filter, label and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal). Note the length of time a water sample sits in the fridge in the field notebook.
 
 ### Filtration
 
-This protocol is designed for samples collected with a Smith-Root filter directly from a body of water or 1L bottle of sample water. Sample water is drawn through the “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e. at different depths) but should not be re-used between sites without sterilization. 
+This protocol is designed for samples collected with a Smith-Root filter directly from a body of water or 1 L bottle of sample water. Sample water is drawn through the “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e. at different depths) but should not be re-used between sites without sterilization. 
 
+**Note: The standard protocol is for filtering directly from a 1 L Nalgene bottle. This protocol can be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA Pre-Filter Adapter will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing.**
 
-**Note: The standard protocol is for filtering directly from a 1L Nalgene bottle. This protocol can be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA Pre-Filter Adapter will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing.**
-
-1. Remove a sterile peristaltic tube from the sterile bucket and insert it into the slot in the  pump. Place one end in a bucket/sink/other catchment, and insert a barbed adapter into the other end. During this process, keep the tubing on the adapter side off the counter to avoid contamination (i.e., use an aluminum foil boat). 
+1. Remove a sterile peristaltic tube from the sterile bucket and insert it into the slot in the pump. Place one end in a catchment container, and insert a barbed adapter into the other end. During this process, keep the tubing on the adapter side off the counter to avoid contamination (i.e., use an aluminum foil boat). 
 2. Remove a clear tube from the sterile bucket and attach to the barbed adapter, taking care to keep the clean end of the tubing sterile.
 3. Remove a Smith-Root filter and inlet prefilter straw (included in bag) from the packaging - avoid touching the inlet or outlet and keep the straw clean. Attach Smith-Root to sterile clear tubing via the barbed end of the Smith-Root outlet (yellow) filter housing. Save the packaging bag as you will place the Smith-Root filter back into it after sampling for storage.
 4. Attach the prefilter straw to the inlet (white) end of the Smith-Root filter housing. If you are running the filter inline, you will attach the pre-filter adapter and tubing here instead.
@@ -282,16 +279,15 @@ This protocol is designed for samples collected with a Smith-Root filter directl
 7. Once all is filtered, continue pumping until all water is removed from the Smith-Root, then run dry for 1 minute to pre-dry the sample prior to preservation. Remove the straw from the inlet end of the Smith-Root and discard. 
 8. Remove the Smith-Root filter housing from the tubing and immediately place back in the provided labeled bag and seal carefully. Place the section of tubing with the barbed luer adapter in your clean aluminum foil boat for reuse with a replicate sample or another sample from the same site.
 
-
 ### Sample Preservation
 
 The Smith-Root filter housing contains a proprietary desiccant (the yellow end of the housing) that dries and preserves the sample without the need for additonal preservatives. Ensure the Smith-Root bag is well sealed so no additional air can get in, and that the filter housing is entirely empty of water. There is no need to remove the disc filter from the Smith-Root for separate preservation as the housing and bag are designed to preserve the sample.
 
 ### Storage
 
-Store preserved samples at room temperature in a dry, cool location. Samples can be shipped without any need for cooling, provided that shipping temperatures are not excessively hot or below freezing.
+Store preserved samples at room temperature in a dry, cool location. Samples can be shipped with no cold storage, provided that shipping temperatures are not excessively hot or below freezing.
 
-Samples should be extracted as soon as is timely and sterile (not onboard a ship), but the Smith-Root has been demonstrated to preserve DNA for at least 6 months if needed.
+Samples should be extracted as soon as is timely and sterile (not onboard a ship), but the Smith-Root has been demonstrated to preserve DNA for at least 6 months, if needed.
 
 ### Quality Control
 
@@ -302,7 +298,6 @@ A field blank consisting of sterile RO water in a pre-filled and sealed (prior t
 **Issue 1:** Clogged filter.
 
 **Solution:** If a Smith-Root filter clogs prior to filtering 1 L (water no longer passes through), then denote the volume filtered and continue filtering through a new Smith-Root filter. Repeat until 1 L is filtered. Mark each additional Smith-Root, record additional sample names and notes, and denote volumes filtered for each in the field notebook.
-
 
 ## REFERENCES
 
