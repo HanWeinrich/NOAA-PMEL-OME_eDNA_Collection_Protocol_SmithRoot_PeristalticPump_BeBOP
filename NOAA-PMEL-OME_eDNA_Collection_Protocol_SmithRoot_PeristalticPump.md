@@ -304,6 +304,6 @@ A field blank consisting of sterile RO water in a pre-filled and sealed (prior t
 Thomas AC, Nguyen PL, Howard J, Goldberg CS. A self-preserving, partially biodegradable eDNA filter. Methods Ecol Evol. 2019; 10: 1136–1141. https://doi.org/10.1111/2041-210X.13212
 
 ## APPENDIX A: DATASHEETS
-[OME_Collection_CTD_ProtocolSheet](https://docs.google.com/spreadsheets/d/1MKNcWcW8v8AlEfASEV-uqE-QKrhblGvU/edit#gid=561598726)
+[OME_Collection_eDNA_ProtocolSheet](https://docs.google.com/spreadsheets/d/1MKNcWcW8v8AlEfASEV-uqE-QKrhblGvU/edit?usp=sharing&ouid=112961731900530069948&rtpof=true&sd=true)
 
 ## APPENDIX B: VIDEO & IMAGE FILES
