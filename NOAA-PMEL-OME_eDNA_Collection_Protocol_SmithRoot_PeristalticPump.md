@@ -209,17 +209,17 @@ One sterile bottle is required for each sample and each field blank.
 Bottle Sterilization Method (RO Available):
 
 1. Create a 10% bleach solution in one of the buckets (6-10 L total, depending on needs).
-2. Fill 4-6 bottles at a time with 10% bleach solution; fill to the top and seal with a lid. Allow to sit for 15 minutes.
+2. Fill 4-6 bottles at a time with 10% bleach solution; fill to the top and seal with a lid. Allow to sit for 7 minutes, then flip the bottle upside down. Allow to sit for 7 more minutes.
 3. Pour 10% bleach from these bottles into the next set of bottles or reuse bleach for further sterilization needs.
-4. Each bottle needs to be rinsed with  RO three times. Fill each Nalgene bottle with ~200 mL of RO, and then shake for 30-45 seconds (3x total).
+4. Each bottle needs to be rinsed with RO. Fill each Nalgene bottle with ~200 mL of RO, and then shake for 30-45 seconds. Repeat process 2x (= three rinses in total).
 5. Shake out excess RO dumped (doesn’t need to be entirely dry), close it with the cap, and then wrap the top with parafilm to maintain sterility. Always wrap in the direction the cap tightens, so clockwise.
 
-Bottle Sterilization Method with (RO Not Available):
+Bottle Sterilization Method (RO Not Available):
 
-1. Complete Steps 1-3 from Bottle Sterilization Method (RO Available).
-2. Close it with the cap, then wrap the top with parafilm to maintain sterility. **Shouldn't be done more than 24 hours in advance of sampling**.
-3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of sample water from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
-
+1. Complete Steps 1-3 from Bottle Sterilization Method (RO Available)
+2. Close it with the cap, then wrap the top with parafilm to maintain sterility. **This shouldn’t be done more than 24 hours in advance of sampling.**
+3. Once the CTD is on deck, take bleached 1 L Nalgene bottles and dispense ~250 ml of the sample from the Niskin into the bottle; close the lid and shake vigorously. Dump. This will rid the container of residual bleach. Repeat process 2x (= three rinses in total). Water must come from the same Niskin that will be the source of the actual sample; otherwise, there will be cross-contamination.
+   
 **Tubing and Adapter Sterilization:**
 
 Barbed Tubing Adapter Sterilization:
