@@ -108,7 +108,7 @@ samp_size_unit: mL
 | Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity, and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, Niskin bottles are attached to the same deployable metal frame as the CTD and ancillary sensors so that water parameter data are collected alongside Niskin water samples. Deployments of this suite of instruments and sensors on the same frame are often referred to as a "CTD cast". |
 | Field blank | Sampling negative control. Typically, distilled or reverse osmosis water is run through a filter like an eDNA water sample to control for contamination in the field sampling step.  |
 | Niskin bottle  | Plastic cylindrical bottle of varying volumes for collecting discrete water samples. A stopper at each end of the bottle can be "cocked" open with an electronic or weight-triggered release mechanism, causing the stoppers to snap shut. This is remotely triggered, so the bottle closes at a prescribed depth. Often, multiple bottles are arranged on the same frame as a CTD and other sensors in a "rosette". |
-| Smith-Root self-preserving eDNA filters | eDNA filter housing (compatible with any suction pump) partially comprised of a biodegradable, hydrophilic plastic that functions to automatically preserve captured eDNA via desiccation|
+| Smith-Root self-preserving eDNA filters | eDNA filter housing (compatible with any water suction pump) partially comprised of a biodegradable, hydrophilic plastic that functions to preserve eDNA captured on the internal filter via desiccation|
 
 ## BACKGROUND
 
@@ -159,7 +159,7 @@ For a singular cast with three unique samples taken (one sample per Niskin):
 | **Durable equipment** |
 | Peristaltic pump | Alexis peristaltic pump | Proactive Environmental Products | 1 | Can be substituted with generic, must fit peristaltic tubing with 3/16" inner diameter. |
 | Peristaltic tubing | Nalgene Pharma-Grade Platinum-Cured Silicone Tubing, Size 15 | Thermo Scientific | 3 | Need to be cut into 4-5 ft pieces with a razor blade. Can be substituted with generic silicone peristaltic tubing of the same diameter. |
-| Tubing adapter | 1/4" to 3/16" Nylon Single Barbed Tube Reducer |Made in USA| 3 | Can be subsituted with generic, must be sterilizable. |
+| Barbed Tubing adapter | 1/4" to 3/16" Nylon Single Barbed Tube Reducer |Made in USA| 3 | Can be subsituted with generic, must be sterilizable. |
 |Clear Tubing|1/4" inner diameter vinyl clear tubing |Generic|3|Must be sterilizable with bleach, must fit on the barbed end of the Smith-Root filter housing.|
 | Nalgene bottles | 1 L Nalgene wide-mouth lab quality amber HDPE bottles | Thermo Scientific | 3 | Can be substituted with generic - must be opaque, well-sealing, and sterilizable. |
 | Carboy | 20 L Nalgene rectangular carboy with spigot | Generic | 1 |Number needed will vary based on length of fieldwork and number of samples. Must be sterilized before use. Not required if the ship has sterile RO water available. |
@@ -266,15 +266,15 @@ Fill a 1 L Nalgene bottle with 1 L of sample water. It is important to do this b
 
 ### Filtration
 
-This protocol is designed for samples collected with a Smith-Root filter directly from a body of water or a 1 L bottle of sample water. Sample water is drawn through the “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e., at different depths) but should not be reused between sites without sterilization. 
+This protocol is designed for samples collected with a Smith-Root filter directly from a body of water or a 1 L bottle of sample water. Sample water is drawn through the pre-filter “straw” + filter cartridge via clear tubing attached to the outlet (yellow) side and run through the peristaltic pump. The pre-filter straw is attached to the Smith-Root filter inlet (rubbery white end) and then submerged in the sample water. The filter housing itself should not be submerged. Sample water is then pumped through the filter. With this method, the same tubing can be used for all samples taken from a single site (i.e., at different depths) but should not be reused between sites without sterilization. 
 
-**Note: The standard protocol is for filtering directly from a 1 L Nalgene bottle. This protocol can be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA Pre-Filter Adapter will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing.**
+**Note: The standard protocol is for filtering directly from a 1 L Nalgene bottle using the included pre-filter *straw*. This protocol can also be used to filter from a clean bucket or bin. If filtering inline from a carboy or Niskin bottle directly, the eDNA pre-filter *adapter* will need to be purchased from Smith-Root to adapt from the Smith-Root inlet to 1/4" inner diameter tubing.**
 
 1. Remove a sterile peristaltic tube from the sterile bucket and insert it into the slot in the pump. Place one end in a catchment container, and insert a barbed adapter into the other end. During this process, keep the tubing on the adapter side off the counter to avoid contamination (i.e., use an aluminum foil boat). 
 2. Remove a clear tube from the sterile bucket and attach it to the barbed adapter, taking care to keep the clean end of the tubing sterile.
-3. Remove a Smith-Root filter and inlet prefilter straw (included in bag) from the packaging - avoid touching the inlet or outlet and keep the straw clean. Attach Smith-Root to sterile clear tubing via the barbed end of the Smith-Root outlet (yellow) filter housing. Save the packaging bag, as you will place the Smith-Root filter back into it after sampling for storage.
-4. Attach the prefilter straw to the inlet (white) end of the Smith-Root filter housing. If you are running the filter inline, you will attach the pre-filter adapter and tubing here instead.
-5. Stick the inlet end of the Smith-Root straw into the sample water in the Nalgene bottle - do not submerge the Smith-Root entirely. If the junction between the two halves of the Smith-Root is submerged, the sample can get sucked into the tubing, bypass the filter, and as a result, contaminate the tubing and reduce the sample volume passed through the filter. Submerging the yellow desiccant end of the filter housing can also reduce its preservative capacity and compromise the sample.
+3. Remove a Smith-Root filter and inlet pre-filter straw (included in bag) from the packaging - avoid touching the inlet or outlet and keep the straw clean. Attach Smith-Root to sterile clear tubing via the barbed end of the Smith-Root outlet (yellow) filter housing. Save the packaging bag, as you will place the Smith-Root filter back into it after sampling for storage.
+4. Attach the pre-filter straw to the inlet (white) end of the Smith-Root filter housing. If you are running the filter inline, you will attach the pre-filter adapter and tubing here instead.
+5. Stick the inlet end of the pre-filter straw into the sample water in the Nalgene bottle - do not submerge the Smith-Root entirely. If the junction between the two halves of the Smith-Root is submerged, the sample can get sucked into the tubing, bypass the filter, and as a result, contaminate the tubing and reduce the sample volume passed through the filter. Submerging the yellow desiccant end of the filter housing can also reduce its preservative capacity and compromise the sample.
 6. Outflow can be directed to the sink or bucket. Start the pump at 35 rpm and adjust upwards accordingly up to ~80 rpm so that the sample takes 7-10 minutes for a sample with low turbidity.
 7. Once all is filtered, continue pumping until all water is removed from the Smith-Root, then run dry for 1 minute to pre-dry the sample prior to preservation. Remove the straw from the inlet end of the Smith-Root and discard it. 
 8. Remove the Smith-Root filter housing from the tubing and immediately place it back in the provided labeled bag and seal carefully. Place the section of tubing with the barbed luer adapter in your clean aluminum foil boat for reuse with a replicate sample or another sample from the same site.
@@ -307,3 +307,5 @@ Thomas AC, Nguyen PL, Howard J, Goldberg CS. A self-preserving, partially biodeg
 [OME_Collection_eDNA_ProtocolSheet](https://docs.google.com/spreadsheets/d/1MKNcWcW8v8AlEfASEV-uqE-QKrhblGvU/edit?usp=sharing&ouid=112961731900530069948&rtpof=true&sd=true)
 
 ## APPENDIX B: VIDEO & IMAGE FILES
+
+
