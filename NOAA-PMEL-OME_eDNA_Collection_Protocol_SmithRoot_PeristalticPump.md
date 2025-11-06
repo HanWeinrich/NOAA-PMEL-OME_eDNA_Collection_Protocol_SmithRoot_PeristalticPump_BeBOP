@@ -15,7 +15,7 @@ skills_required: sterile technique, pipetting skills, standard molecular techniq
 time_required: 75
 personnel_required: 1
 language: en
-issued: 2025-10-07
+issued: 2025-11-06
 audience: scientists
 publisher: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Program; University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies
 hasVersion: 1
@@ -71,7 +71,7 @@ samp_size_unit: mL
 
 | PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
 | ------------- | ------------ | ------------ | ------------ | ----------------- |
-| NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge | https://github.com/HanWeinrich/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge.md  | 1.1.1  |	2025-10-06  |Internal
+| NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge | https://github.com/HanWeinrich/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_DiscFilters_Extraction_Protocol_Centrifuge.md  | 1.1.1  |	2025-11-06  |Internal |
 
 ### Protocol Revision Record
 
@@ -81,7 +81,7 @@ samp_size_unit: mL
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | 2024-10-07 | Initial release |
+| 1.0.0 | 2024-11-06 | Initial release |
 
 ### Acronyms and Abbreviations
 
@@ -130,7 +130,7 @@ One person with pipetting experience. Recommend research vessel experience, but 
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions, including wearing PPE, should be taken to avoid skin and eye exposure to bleach and ethanol.
+This protocol uses bleach and ethanol, both of which are classified as hazardous chemicals. Appropriate PPE must be worn, and standard safety procedures should be followed to avoid skin and eye exposure.
 
 ### Training Requirements
 
@@ -240,7 +240,7 @@ Tube Sterilization Method (RO Not Available):
 1. Complete Steps 1-2 from Tube Sterilization Method (RO Available), minus the bucket filled with RO water.
 2. Soak the peristaltic and clear tubing in the bucket with bleach for 15 min; make sure the bleach makes it into the inside of the tube. The best way to ensure the tube is filled is by rolling up the tube and then making sure both openings are submerged. Air bubbles should escape as the tube fills.
 3. Remove tubing from bleach bucket and wipe down ends with kimwipe and 70% EtOH. Place in a sterile storage bucket. **Shouldn't be done more than 24 hours in advance of sampling to avoid tube damage due to bleach residue**
-4. Once the CTD is on deck, with a sterilized Nalgene bottle, collect ~250 ml of Niskin sample water in addition to the 1 L Nalgene bottle sample. Before filtering through the sterivex, run the 250 ml of sample water through the tubing to clean off residual bleach. Use tubing immediately.
+4. Once the CTD is on deck, with a sterilized Nalgene bottle, collect ~250 ml of Niskin sample water in addition to the 1 L Nalgene bottle sample. Before filtering through the sterivex, run the 250 mL of sample water through the tubing to clean off residual bleach. Use tubing immediately.
 
 **Bench Space Preparation:**
 * Anchor the peristaltic pump and carboy to the ship bench using screws/eye bolts or bungee cords.
@@ -281,7 +281,7 @@ This protocol is designed for samples collected with a Smith-Root filter directl
 
 ### Sample Preservation
 
-The Smith-Root filter housing contains a proprietary desiccant (the yellow end of the housing) that dries and preserves the sample without the need for additional preservatives. Ensure the Smith-Root bag is well sealed so no additional air can get in, and that the filter housing is entirely empty of water. There is no need to remove the disc filter from the Smith-Root for separate preservatio,n as the housing and bag are designed to preserve the sample.
+The Smith-Root filter housing contains a proprietary desiccant (the yellow end of the housing) that dries and preserves the sample without the need for additional preservatives. Ensure the Smith-Root bag is well sealed so no additional air can get in, and that the filter housing is entirely empty of water. There is no need to remove the disc filter from the Smith-Root for separate preservation, as the housing and bag are designed to preserve the sample.
 
 ### Storage
 
@@ -305,7 +305,5 @@ Thomas AC, Nguyen PL, Howard J, Goldberg CS. A self-preserving, partially biodeg
 
 ## APPENDIX A: DATASHEETS
 [OME_Collection_eDNA_ProtocolSheet](https://docs.google.com/spreadsheets/d/1MKNcWcW8v8AlEfASEV-uqE-QKrhblGvU/edit?usp=sharing&ouid=112961731900530069948&rtpof=true&sd=true)
-
-## APPENDIX B: VIDEO & IMAGE FILES
 
 
