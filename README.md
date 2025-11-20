@@ -1,5 +1,7 @@
 # NOAA-PMEL-OME_eDNA_Collection_Protocol_SmithRoot_PeristalticPump_BeBOP
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17655098.svg)](https://doi.org/10.5281/zenodo.17655098)
+
 See [NOAA-PMEL-OME_eDNA_Collection_Protocol_SmithRoot_PeristalticPump](https://github.com/HanWeinrich/NOAA-PMEL-OME_eDNA_Collection_Protocol_SmithRoot_PeristalticPump_BeBOP/blob/main/NOAA-PMEL-OME_eDNA_Collection_Protocol_SmithRoot_PeristalticPump.md)
 
 ## Disclaimer
